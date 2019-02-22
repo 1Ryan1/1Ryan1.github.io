@@ -1,0 +1,65 @@
+body {
+  background-color: white;
+}
+h1 {
+  color: black;
+  font-size: 300%;
+}
+p {
+  color: black;
+  }
+
+ h2 {
+ font-size: 200%;
+ } 
+
+h2 {
+font-size: 200%:
+}
+
+* {
+  box-sizing: border-box;
+}
+
+body {
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+header {
+  background-color:   rgb(56,56,56);
+  padding: 30px;
+  text-align: center;
+  font-size: 35px;
+  color: white;
+}
+
+nav {
+  float: left;
+  width: 10%;
+  height: 600px;
+  background: LightSkyBlue;
+  padding: 20px;
+}
+
+article {
+  float: left;
+  padding: 20px;
+  width: 90%;
+  background-color: powderblue;
+  height: 600px; 
+}
+
+section:after {
+  content: "";
+  display: table;
+  clear: both;
+}
+
+footer {
+  background-color:  rgb(80,80,80);
+  padding: 50px;
+  text-align: center;
+  color: white;
+}
+
+
